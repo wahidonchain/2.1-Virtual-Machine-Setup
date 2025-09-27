@@ -53,4 +53,4 @@ This section outlines the process of setting up Virtual Machines in Azure in pre
 <img src="https://i.imgur.com/YmTbM0Z.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/wahidonchain/Azure-Compute-and-Networking
